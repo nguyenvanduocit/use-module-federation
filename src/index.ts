@@ -106,7 +106,7 @@ const deferred = (args: DeferredArgument): Promise<HTMLScriptElement> => {
   }
 
   const id = args.id || 'anonymous deferred'
-  const timeoutId: number = setTimeout(
+  const timeoutId = setTimeout(
     () => rejector(new ErrorEvent(`timeout (${timeout}) reached on "${id}"`)),
     timeout
   )
