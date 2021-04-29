@@ -2,14 +2,9 @@
 
 ---
 
-# my-ts-lib
+# use-module-federation
 
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib)
-
-## Using this template
-
-- Search `my-ts-lib` and replace it with your custom package name.
-- Search `egoist` and replace it with your name.
+[![npm version](https://badgen.net/npm/v/use-module-federation)](https://npm.im/use-module-federation)
 
 Features:
 
@@ -21,9 +16,5 @@ Features:
 ## Install
 
 ```bash
-npm i my-ts-lib
+npm i use-module-federation
 ```
-
-## License
-
-MIT &copy; [EGOIST](https://github.com/sponsors/egoist)
